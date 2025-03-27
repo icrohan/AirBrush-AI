@@ -20,3 +20,6 @@ Python
 OpenCV
 
 NumPy
+
+
+ ![image](https://github.com/user-attachments/assets/6c33c509-8778-417f-a488-3d354f63fecc)
